@@ -1,4 +1,3 @@
-# youtube-video-manager-using-sqlite3
 # YouTube Video Manager (SQLite)
 
 A simple Python CLI application to manage YouTube videos using SQLite database.
